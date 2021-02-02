@@ -1,3 +1,3 @@
-## Todo App
+## Messaging App
 
-A **VERY** basic todo app using React, TypeScript, and Gatsby.
+A **VERY** basic messaging app using React, TypeScript, and Gatsby.
