@@ -1,0 +1,49 @@
+{
+  "name": "messages-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A very simple messaging app",
+  "author": "John Heher",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop -H 0.0.0.0",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
+    "gatsby": "^2.31.1",
+    "gatsby-plugin-styled-components": "^3.9.0",
+    "nanoid": "^3.1.20",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.20",
+    "@types/reach__router": "^1.3.7",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/styled-components": "^5.1.7",
+    "@typescript-eslint/eslint-plugin": "^4.14.1",
+    "@typescript-eslint/parser": "^4.14.1",
+    "babel-plugin-styled-components": "^1.12.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-import-resolver-node": "^0.3.4",
+    "eslint-plugin-compat": "^3.9.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "gatsby-plugin-styled-components": "^3.8.0",
+    "gatsby-plugin-typescript": "^2.10.0",
+    "typescript": "^4.1.3"
+  }
+}
